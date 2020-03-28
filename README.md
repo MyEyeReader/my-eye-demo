@@ -1,7 +1,7 @@
 # my-eye-demo
 Dummy data for the device.
 
-Instructions: Enter the string to translate to braille. Enter 'exit' (or ctrl+C) to exit the program.
+Instructions: Enter the string to translate to braille. Enter `exit` (or ctrl+C) to exit the program.
 
 The characters are listed sequentially in unicode. `toUnicode` returns the braille unicode representing the letter. `toByte` returns a number whose bits represent the raised dots. 
 
